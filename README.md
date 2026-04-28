@@ -1,14 +1,18 @@
-# 📊 E-Commerce Sales Analysis ## Description Analyse complète des données de ventes d'une plateforme e-commerce. Projet de **data analyst** combinant **SQL** pour les requêtes complexes et 
-**Python** pour l'analyse et la visualisation. **Objectifs** : - Identifier les tendances de ventes - Analyser le comportement des clients - Segmenter les ventes par catégorie et région - Créer des 
+#  E-Commerce Sales Analysis
+## Description Analyse complète des données de ventes d'une plateforme e-commerce.
+
+Projet de **data analyst** combinant **SQL** pour les requêtes complexes et  **Python** pour l'analyse et la visualisation. 
+
+**Objectifs** : - Identifier les tendances de ventes - Analyser le comportement des clients - Segmenter les ventes par catégorie et région - Créer des 
 visualisations pour le reporting --- ## 📈 Résultats clés | Métrique | Valeur | |---|---| | **Ventes totales** | 8 020€ | | **Nombre de clients** | 7 | | **Nombre de transactions** | 50 | | 
-**Catégorie dominante** | Électronique (73.5%) | | **Région dominante** | Europe (66.8%) | | **Client VIP** | Alice Martin (3 590€) | | **Panier moyen** | 160.4€ | ### 🏆 Top Insights - 
+**Catégorie dominante** | Électronique (73.5%) | | **Région dominante** | Europe (66.8%) | | **Client VIP** | Alice Martin (3 590€) | | **Panier moyen** | 160.4€ | ###  Top Insights - 
 **Électronique** génère 73.5% du CA (produits haut de gamme) - **Europe** est le marché principal avec 66.8% des ventes - **Alice Martin** représente 44.8% des revenus totaux
 - Les **chaussettes** sont le produit le plus vendu en quantité (10 unités)
 - Le panier moyen varie beaucoup selon les clients (60€ à 299€)
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Python 3** — Analyse et visualisation
 - **SQL (SQLite)** — Requêtes complexes
