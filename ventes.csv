@@ -1,0 +1,29 @@
+id,date,client_id,client_nom,categorie,produit,quantite,prix_unitaire,vente_totale,region,pays
+1,2024-01-05,C001,Alice Martin,Électronique,Laptop,1,1200.00,1200.00,Europe,France
+2,2024-01-07,C002,Bob Smith,Vêtements,T-Shirt,3,25.00,75.00,Europe,UK
+3,2024-01-10,C001,Alice Martin,Électronique,Souris,2,45.00,90.00,Europe,France
+4,2024-01-12,C003,Charlie Chen,Électronique,Clavier,1,150.00,150.00,Asie,Chine
+5,2024-01-15,C002,Bob Smith,Livres,Roman Python,1,35.00,35.00,Europe,UK
+6,2024-01-18,C004,Diana Lee,Vêtements,Robe,2,80.00,160.00,Amérique,USA
+7,2024-02-01,C001,Alice Martin,Électronique,Monitor,1,350.00,350.00,Europe,France
+8,2024-02-05,C003,Charlie Chen,Vêtements,Chemise,1,60.00,60.00,Asie,Chine
+9,2024-02-08,C002,Bob Smith,Électronique,Webcam,1,85.00,85.00,Europe,UK
+10,2024-02-12,C004,Diana Lee,Livres,Livre SQL,2,40.00,80.00,Amérique,USA
+11,2024-02-15,C005,Eve Johnson,Électronique,SSD,1,200.00,200.00,Europe,Allemagne
+12,2024-02-20,C001,Alice Martin,Vêtements,Pantalon,1,70.00,70.00,Europe,France
+13,2024-03-01,C003,Charlie Chen,Électronique,RAM,2,120.00,240.00,Asie,Chine
+14,2024-03-05,C002,Bob Smith,Vêtements,Chaussettes,5,15.00,75.00,Europe,UK
+15,2024-03-10,C006,Frank Wilson,Livres,Guide Data,1,50.00,50.00,Amérique,Canada
+16,2024-03-15,C004,Diana Lee,Électronique,Batterie,3,30.00,90.00,Amérique,USA
+17,2024-03-20,C005,Eve Johnson,Vêtements,Gilet,1,95.00,95.00,Europe,Allemagne
+18,2024-03-25,C001,Alice Martin,Électronique,Câbles,4,10.00,40.00,Europe,France
+19,2024-04-01,C003,Charlie Chen,Vêtements,Pull,2,55.00,110.00,Asie,Chine
+20,2024-04-05,C002,Bob Smith,Électronique,Routeur,1,120.00,120.00,Europe,UK
+21,2024-04-10,C007,Grace Brown,Livres,Python Avancé,1,60.00,60.00,Amérique,USA
+22,2024-04-15,C004,Diana Lee,Vêtements,Blazer,1,150.00,150.00,Amérique,USA
+23,2024-04-20,C005,Eve Johnson,Électronique,Scanner,1,200.00,200.00,Europe,Allemagne
+24,2024-04-25,C001,Alice Martin,Livres,Data Science,1,45.00,45.00,Europe,France
+25,2024-04-28,C006,Frank Wilson,Électronique,Clavier Mécanique,1,180.00,180.00,Amérique,Canada
+
+
+
