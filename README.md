@@ -4,6 +4,9 @@
 Analyse complète des données de ventes d'une plateforme e-commerce. 
 Projet de **data analyst** combinant **SQL** pour les requêtes complexes et **Python** pour l'analyse et la visualisation.
 
+## Démo en ligne
+[Clique ici pour voir le dashboard](https://app-ecommerce-dashboard-glcmes9z89beqpgyg9nkan.streamlit.app)
+
 **Objectifs** :
 - Identifier les tendances de ventes
 - Analyser le comportement des clients
